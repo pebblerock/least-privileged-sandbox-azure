@@ -18,4 +18,4 @@ The Terraform state is kept in a separate resource group with no access; only th
 
 # Infrastructure diagram 
 
-![infra diagram](/least-privileged-sandbox-azure/infra.png)
+![infra diagram](infra.png)
